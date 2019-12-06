@@ -11,6 +11,6 @@
 	</head>
 	<body>
    <h1><center>欢迎来到链接专题</center></h1>
-    <div>http://www.leleketang.com/zuowen/491426.shtml<br></div>
+    <div>作文《我的拿手好戏》:http://www.leleketang.com/zuowen/491426.shtml<br></div>
       </body>
   </html>
